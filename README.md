@@ -53,7 +53,7 @@ Solana’s Sealevel runtime already supports parallel execution, but in practice
 
 ### 📬 Contact
 Author: **Kaleb Barnhart** X (@xkal3b)  
-Email: **kbrnhrt@gmail.com**  
+💬 Telegram: [@kb441](https://t.me/kb441) 
 
 ---
 
